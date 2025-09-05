@@ -1,0 +1,10 @@
+{
+  "max_tokens": 30000,
+  "seq_len": 64,
+  "features": [
+    "punct_burst",
+    "caps_ratio",
+    "emoji_flag"
+  ],
+  "thr_val": 0.5088746547698975
+}
